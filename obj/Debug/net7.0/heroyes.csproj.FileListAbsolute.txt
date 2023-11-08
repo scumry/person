@@ -1,0 +1,14 @@
+C:\Users\maldi\OneDrive\Рабочий стол\heroyes\bin\Debug\net7.0\heroyes.exe
+C:\Users\maldi\OneDrive\Рабочий стол\heroyes\bin\Debug\net7.0\heroyes.deps.json
+C:\Users\maldi\OneDrive\Рабочий стол\heroyes\bin\Debug\net7.0\heroyes.runtimeconfig.json
+C:\Users\maldi\OneDrive\Рабочий стол\heroyes\bin\Debug\net7.0\heroyes.dll
+C:\Users\maldi\OneDrive\Рабочий стол\heroyes\bin\Debug\net7.0\heroyes.pdb
+C:\Users\maldi\OneDrive\Рабочий стол\heroyes\obj\Debug\net7.0\heroyes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maldi\OneDrive\Рабочий стол\heroyes\obj\Debug\net7.0\heroyes.AssemblyInfoInputs.cache
+C:\Users\maldi\OneDrive\Рабочий стол\heroyes\obj\Debug\net7.0\heroyes.AssemblyInfo.cs
+C:\Users\maldi\OneDrive\Рабочий стол\heroyes\obj\Debug\net7.0\heroyes.csproj.CoreCompileInputs.cache
+C:\Users\maldi\OneDrive\Рабочий стол\heroyes\obj\Debug\net7.0\heroyes.dll
+C:\Users\maldi\OneDrive\Рабочий стол\heroyes\obj\Debug\net7.0\refint\heroyes.dll
+C:\Users\maldi\OneDrive\Рабочий стол\heroyes\obj\Debug\net7.0\heroyes.pdb
+C:\Users\maldi\OneDrive\Рабочий стол\heroyes\obj\Debug\net7.0\heroyes.genruntimeconfig.cache
+C:\Users\maldi\OneDrive\Рабочий стол\heroyes\obj\Debug\net7.0\ref\heroyes.dll
